@@ -17,6 +17,10 @@ public class LoginPageObject {
 	 @FindBy(xpath = "//*[contains(@type, 'submit')]")
 	 WebElement signin;
 	 
+	 //Code upload to GIT from GitE2E
+	 //Good work
+	 //Will wiat for further update
+	 
 	// public Stst2LoginCaseManager(Webdriver driver) {
 	   public LoginPageObject(WebDriver driver) {
 		 this.driver = driver;
